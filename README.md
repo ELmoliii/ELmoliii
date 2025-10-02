@@ -13,7 +13,7 @@ Joven desarrollador con interés en nuevas tecnologías, buenas prácticas y des
 
 ## 🚀 Resumen profesional (destacado)
 
-### **Manservic S.L — Software Developer** · Madrid (Abril 2024 — presente)
+### **Manservic S.L — Software Developer** · Madrid (Abril 2024)
 
 * Diseñé y optimicé la **arquitectura de base de datos MySQL** (tablas, relaciones, integridad) para mejorar consistencia y escalabilidad.
 * Implementé **lógica de negocio en PHP** e integración backend ↔ base de datos para gestión de partes e incidencias en tiempo real.
