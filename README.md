@@ -62,25 +62,6 @@ Joven desarrollador con interés en nuevas tecnologías, buenas prácticas y des
 
 ---
 
-## ▶️ Cómo ejecutar mi portfolio (ejemplo)
-
-```bash
-# clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-
-# instalar dependencias (ejemplo npm)
-npm install
-npm run dev
-
-# o con yarn
-yarn
-yarn dev
-```
-
-> Reemplaza `tu-usuario/tu-repo` por la URL real del repo. Consulta el README de cada proyecto para pasos específicos.
-
----
 
 ## ✨ Habilidades profesionales (frase para cabecera/CV)
 
@@ -108,8 +89,4 @@ yarn dev
 
 ---
 
-Si quieres, puedo:
 
-* Convertir esto a **versión en inglés**.
-* Añadir **badges** (GitHub, email, LinkedIn, tecnologías).
-* Generar un README con **vistas previas de proyectos** (capturas) y enlaces. ¿Qué prefieres ahora?
